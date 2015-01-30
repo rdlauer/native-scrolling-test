@@ -1,0 +1,37 @@
+{
+  "ProjectName": "Native Scrolling Test",
+  "ProjectGuid": "20e78937-d2a9-4b12-b3fc-25cb71721147",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NativeScrollingTest",
+  "DisplayName": "Native Scrolling Test",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{474f6473-c685-4c63-a21d-051327e4f0fa}",
+  "WP8ProductID": "{4d54d6b8-8a8c-4900-99b1-18a2619f44c6}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
